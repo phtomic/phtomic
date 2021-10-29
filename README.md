@@ -70,7 +70,7 @@ function calcAge(birth){
  
  <br> 
  <br>
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=thainaisrael&color=blueviolet" alt="thainaisrael" /> <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=phtomic&color=blueviolet" alt="phtomic" /> <br>
  
  ![Snake animation](https://github.com/ThainaIsrael/ThainaIsrael/blob/output/github-contribution-grid-snake.svg)
 
