@@ -42,37 +42,30 @@ function calcAge(birth){
 
 
 ## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainaisrael&theme=radical&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainaisrael&show_icons=true&theme=radical&line_height=27" alt="**Thainá Israel** github stats"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtomic&theme=radical&hide_langs_below=1" />
 
 
-<a href="mailto:<thainaluizaisrael@gmail.com>" alt="gmail" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thainaisrael&show_icons=true&theme=radical&line_height=27" alt="**Thainá Israel** github stats"/>
+
+
+<a href="mailto:<sebastiaogamer@gmail.com>" alt="gmail" target="_blank">
 
 
 </a>
 
  <div>
 <br>
- <a href="mailto:thainaluizaisrael@gmail.com?subject=Hello%20again">
- <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<thainaluizaisrael@gmail.com>" />
+ <a href="mailto:sebastiaogamer@gmail.com?subject=HELLO%20World">
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<sebastiaogamer@gmail.com>" />
   </ a>
- <a href="https://api.whatsapp.com/send?phone=5521965871376&text=Ol%C3%A1.%20Vim%20do%20Github." alt="WhatsApp" target="_blank">
+ <a href="https://api.whatsapp.com/send?phone=5581981736357&text=Ol%C3%A1.%20Vim%20do%20Github." alt="WhatsApp" target="_blank">
 
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5581981736357"/>
 
 </a>
  
  <br> 
  <br>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=phtomic&color=blueviolet" alt="phtomic" /> <br>
- 
- ![Snake animation](https://github.com/phtomic/phtomic/blob/output/github-contribution-grid-snake.svg)
-
  </div>  
 
