@@ -42,7 +42,7 @@ function calcAge(birth){
 
 
 ## **GitHub Estatísticas**
-<a href='#>
+<a href='#'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtomic&theme=radical&hide_langs_below=1" />
          </a>
 <a href="#">
