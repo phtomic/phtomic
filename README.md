@@ -45,7 +45,7 @@ function calcAge(birth){
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtomic&theme=radical&hide_langs_below=1" />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thainaisrael&show_icons=true&theme=radical&line_height=27" alt="**phtomic** github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phtomic&show_icons=true&theme=radical&line_height=27" alt="**phtomic** github stats"/>
 
 
 <a href="mailto:<sebastiaogamer@gmail.com>" alt="gmail" target="_blank">
