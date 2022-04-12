@@ -21,6 +21,8 @@ const phtomic = {
 }
 
 function calcAge(birth){
+    var hoje = Date.now();
+    var nascimento = Date.parse(birth);
     return Math.floor(Math.ceil(Math.abs(nascimento.getTime() - hoje.getTime()) / (1000 * 3600 * 24)) / 365.25);
 }
 ```
