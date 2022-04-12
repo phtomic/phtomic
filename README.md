@@ -69,4 +69,4 @@ function calcAge(birth){
  <br>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=phtomic&color=blueviolet" alt="phtomic" /> <br>
  </div>  
-<style>code{margin-left:10px}</style>
+<style> code{margin-left:'10px'} </style>
