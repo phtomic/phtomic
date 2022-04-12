@@ -57,7 +57,7 @@ function calcAge(birth){
  <div>
 <br>
  <a href="mailto:sebastiaogamer@gmail.com?subject=HELLO%20World">
- <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<sebastiaogamer@gmail.com>" />
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
   </ a>
  <a href="https://api.whatsapp.com/send?phone=5581981736357&text=Ol%C3%A1.%20Vim%20do%20Github." alt="WhatsApp" target="_blank">
 
