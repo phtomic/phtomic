@@ -6,7 +6,9 @@ Estudando, trabalhando e tomando café pra evoluir sempre
 
 <img align="right" width="300" src="https://github.com/phtomic/phtomic/blob/main/assets/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" />
 <a href='https://playcode.io/884622'>
-<code>
+Abrir script
+</a>
+```javascript
     const phtomic = {
     name: "",
     age: calcAge("2000-04-28"),
@@ -25,8 +27,7 @@ function calcAge(birth){
     var nascimento = Date.parse(birth);
     return Math.floor(Math.ceil(Math.abs(nascimento - hoje) / (1000 * 3600 * 24)) / 365.25);
 }
-    </code>
-</a>
+```
 ## **Linguagens e Ferramentas:**  
 
 <a href='https://developer.mozilla.org/pt-BR/docs/Web/HTML'><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a> 
