@@ -8,8 +8,9 @@ Estudando, trabalhando e tomando café pra evoluir sempre
 <a href='https://playcode.io/884622'>
 Abrir script
 </a>
-```javascript
-    const phtomic = {
+
+```javacript
+const phtomic = {
     name: "",
     age: calcAge("2000-04-28"),
     coding:{
