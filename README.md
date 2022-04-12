@@ -9,7 +9,7 @@ Estudando, trabalhando e tomando café pra evoluir sempre
 ```javascript
 const phtomic = {
     name: "",
-    age: calcAge("28-04-2000"),
+    age: calcAge("2000-04-28"),
     coding:{
         'node.js': true,
         'php': true,
