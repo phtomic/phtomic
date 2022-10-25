@@ -11,7 +11,7 @@ Abrir script
 
 ```javacript
 const phtomic = {
-    name: "",
+    name: "Sebastião Jonas",
     age: calcAge("2000-04-28"),
     coding:{
         'node.js': true,
