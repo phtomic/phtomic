@@ -19,7 +19,7 @@ const phtomic = {
         'java': true,
         'react': true,
         'react-native': true,
-        'typescript': 'inProgress'
+        'typescript': true
     }
 }
 ```
